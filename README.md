@@ -43,4 +43,4 @@ Juntos, podemos tornar este repositório um recurso ainda mais valioso para a co
 
 ## Agradecimentos
 
-Gostaria de agradecer ao Gilson Urbano ([https://github.com/urbanogilson]) por sua inestimável contribuição para este repositório de integrações SICAR para análises espaciais. A API desenvolvida por ele foi fundamental para viabilizar a importação e o processamento dos dados do SICAR de maneira eficiente e robusta.
+Gostaria de agradecer ao Gilson Urbano ([https://github.com/urbanogilson]), pois sem seu trabalho este projeto não seria possível. A API desenvolvida por ele foi fundamental para viabilizar a importação e o processamento dos dados do SICAR de maneira eficiente e robusta.
