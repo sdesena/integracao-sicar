@@ -10,7 +10,7 @@ O objetivo é auxiliar profissionais e pesquisadores que trabalham com geoproces
 
 - Pré-processamento e limpeza de dados: scripts para realizar pré-processamento e limpeza dos dados do SICAR, garantindo a qualidade e consistência das informações para análises posteriores.
 
-- Análises espaciais: scripts para realizar análises espaciais com os dados do SICAR, como mapeamento de uso e ocupação do solo (LULC).
+- Análises espaciais: scripts para realizar análises espaciais com os dados do SICAR, como mapeamento de uso e ocupação do solo (LULC) e geração de índices de vegetação.
 
 
 ## Vantagens:
